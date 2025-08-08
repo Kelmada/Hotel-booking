@@ -6,7 +6,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 
-![Frontend Screenshot](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/frontend-screenshot.png)
+![Frontend Screenshot](https://raw.githubusercontent.com/Sakshi vaidehi/Hotel-Room-Booking-System/main/frontend-screenshot.png)
 
 # ✨ Beach Resort | Hotel Room Booking System
 
@@ -46,4 +46,5 @@ Hello 👋, I'm <strong>Sakshi vaidehi</strong>. In this repository i will be bu
 <p align="center">
   <strong> HAPPY DEVELOPMENT 😀 & I LOVE PROGRAMMING 💖 </strong>
 </p>
+
 
