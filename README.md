@@ -10,7 +10,7 @@
 
 # ✨ Beach Resort | Hotel Room Booking System
 
-Hello 👋, I'm <strong>Samiur Rahman Mukul</strong>. In this repository i will be build a `Complete 'Beach Resort' | Hotel Room Booking System - Web application`. Using `Node.js, Express.js,  MongoDB, React.js, Next.js, Redux.js, Ant Design & Tailwind CSS`. So are you interested at this project let's connect and explore somethings new. Thanks
+Hello 👋, I'm <strong>Sakshi vaidehi</strong>. In this repository i will be build a `Complete 'Beach Resort' | Hotel Room Booking System - Web application`. Using `Node.js, Express.js,  MongoDB, React.js, Next.js, Redux.js, Ant Design & Tailwind CSS`. So are you interested at this project let's connect and explore somethings new. Thanks
 
 <!-- contents of projects -->
 
@@ -27,11 +27,8 @@ Hello 👋, I'm <strong>Samiur Rahman Mukul</strong>. In this repository i will 
 
 <!-- my social media links -->
 
-[facebook-url]: https://www.faceook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
+
+
 
 <!-- shield icon links -->
 
@@ -49,3 +46,4 @@ Hello 👋, I'm <strong>Samiur Rahman Mukul</strong>. In this repository i will 
 <p align="center">
   <strong> HAPPY DEVELOPMENT 😀 & I LOVE PROGRAMMING 💖 </strong>
 </p>
+
